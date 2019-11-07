@@ -1,0 +1,51 @@
+ReturnId,AY,CompanyName,CompanyLocation,EventName,AuthorityName,Ground
+1,2015-2016,Amazon,Delhi,Notice Received,Assessing officer,No Ground
+2,2016-2017,Microsoft,Bengaluru,Notice Received,Assessing officer,No Ground
+3,2013-2014,Amazon,Pune,Notice Received,DRP,No Ground
+4,2017-2018,Google,Pune,Notice Received,ITAT,No Ground
+5,2015-2016,Google,Chennai,Assessment order Received (AO/OGE),Assessing officer,Bond Issue Expenses
+6,2015-2016,RPA LTD,Delhi,Assessment order Received (AO/OGE),ITAT,Preliminary Expenses
+7,2017-2018,RPA LTD,Mumbai,Assessment order Received (AO/OGE),ITAT,Bond Issue Expenses
+8,2015-2016,DLT International Limited,Pune,Assessment order Received (AO/OGE),Assessing officer,14A disallowance 
+9,2017-2018,DLT International Limited,Mumbai,Appeal Order Received,ITAT,Addition to capital gains
+10,2016-2017,Amazon,Pune,Intimation Received,CIT(A),Bond Issue Expenses
+11,2014-2015,Amazon,Chennai,Assessment order Received (AO/OGE),Assessing officer,Addition to capital gains
+12,2017-2018,Amazon,Pune,Penalty order,CIT(A),14A disallowance 
+13,2015-2016,RPA LTD,Mumbai,Penalty order,DRP,14A disallowance 
+14,2014-2015,Google,Bengaluru,Penalty order,ITAT,Preliminary Expenses
+15,2016-2017,RPA LTD,Chennai,Penalty order,Assessing officer,Bond Issue Expenses
+16,2015-2016,Amazon,Mumbai,Assessment order Received (AO/OGE),DRP,Interest on income tax refund
+17,2017-2018,Amazon,Bengaluru,Assessment order Received (AO/OGE),Assessing officer,Addition to capital gains
+18,2016-2017,DLT International Limited,Pune,Other Order Received,DRP,Preliminary Expenses
+19,2017-2018,RPA LTD,Pune,Assessment order Received (AO/OGE),Assessing officer,Bond Issue Expenses
+20,2015-2016,Microsoft,Bengaluru,OGE received,DRP,Addition to capital gains
+21,2015-2016,RPA LTD,Chennai,Rectification Order Received,CIT(A),Bond Issue Expenses
+22,2015-2016,Amazon,Pune,OGE received,DRP,Addition to capital gains
+23,2015-2016,Microsoft,Mumbai,OGE received,Assessing officer,14A disallowance 
+24,2014-2015,Amazon,Chennai,OGE received,DRP,Bond Issue Expenses
+25,2015-2016,Amazon,Mumbai,Appeal Order Received,Assessing officer,Interest on income tax refund
+26,2015-2016,Microsoft,Bengaluru,OGE received,CIT(A),14A disallowance 
+27,2016-2017,DLT International Limited,Delhi,Penalty order,DRP,Interest on income tax refund
+28,2016-2017,Google,Bengaluru,Penalty order,DRP,Interest on income tax refund
+29,2017-2018,Microsoft,Chennai,Penalty order,ITAT,Preliminary Expenses
+30,2014-2015,DLT International Limited,Delhi,Intimation Received,Assessing officer,Bond Issue Expenses
+31,2014-2015,DLT International Limited,Chennai,OGE received,Assessing officer,Bond Issue Expenses
+32,2014-2015,RPA LTD,Bengaluru,Intimation Received,Assessing officer,Addition to capital gains
+33,2014-2015,RPA LTD,Chennai,Notice Received,CIT(A),No Ground
+34,2014-2015,Google,Delhi,Assessment order Received (AO/OGE),DRP,14A disallowance 
+35,2014-2015,Amazon,Chennai,Appeal Order Received,Assessing officer,14A disallowance 
+36,2015-2016,Microsoft,Delhi,Appeal Order Received,CIT(A),Preliminary Expenses
+37,2017-2018,Google,Chennai,Appeal Order Received,ITAT,Interest on income tax refund
+38,2015-2016,RPA LTD,Chennai,Notice Received,Assessing officer,Bond Issue Expenses
+39,2015-2016,Google,Chennai,Intimation Received,CIT(A),Addition to capital gains
+40,2014-2015,RPA LTD,Pune,Assessment order Received (AO/OGE),CIT(A),Interest on income tax refund
+41,2015-2016,RPA LTD,Mumbai,Intimation Received,Assessing officer,Preliminary Expenses
+42,2017-2018,Google,Mumbai,Intimation Received,Assessing officer,Interest on income tax refund
+43,2015-2016,Google,Mumbai,Stay Order,CIT(A),Addition to capital gains
+44,2015-2016,Amazon,Pune,Assessment order Received (AO/OGE),ITAT,14A disallowance 
+45,2016-2017,Google,Delhi,Stay Order,CIT(A),Bond Issue Expenses
+46,2017-2018,Google,Mumbai,Stay Order,CIT(A),Addition to capital gains
+47,2016-2017,Google,Mumbai,Assessment order Received (AO/OGE),Assessing officer,Addition to capital gains
+48,2013-2014,Google,Bengaluru,Stay Order,CIT(A),Interest on income tax refund
+49,2017-2018,DLT International Limited,Mumbai,Penalty order,DRP,Amortisation of investment
+50,2015-2016,Amazon,Pune,Penalty order,Assessing officer,Addition to capital gains
